@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  image_uid: MyString
+  project_id: 1
+  post_id: 1
+  main: false
+  caption: MyString
+
+two:
+  image_uid: MyString
+  project_id: 1
+  post_id: 1
+  main: false
+  caption: MyString
